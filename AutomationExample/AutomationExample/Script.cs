@@ -7,8 +7,9 @@ using System.Text;
 using System.Threading;
 using System.Windows.Automation;
 using System.Windows.Input;
-using Microsoft.Test;
-using Mouse=Microsoft.Test.Mouse;
+//using Microsoft.Test;
+//using Mouse=Microsoft.Test.Mouse;
+using Microsoft.Test.Input;
 
 namespace AutomationExample
 {
